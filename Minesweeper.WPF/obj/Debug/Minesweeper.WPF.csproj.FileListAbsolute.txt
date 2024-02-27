@@ -1,0 +1,15 @@
+C:\Users\faila\OneDrive\Рабочий стол\Minesweeper.WPF\bin\Debug\Minesweeper.WPF.exe.config
+C:\Users\faila\OneDrive\Рабочий стол\Minesweeper.WPF\bin\Debug\Minesweeper.WPF.exe
+C:\Users\faila\OneDrive\Рабочий стол\Minesweeper.WPF\bin\Debug\Minesweeper.WPF.pdb
+C:\Users\faila\OneDrive\Рабочий стол\Minesweeper.WPF\obj\Debug\Minesweeper.WPF.csproj.AssemblyReference.cache
+C:\Users\faila\OneDrive\Рабочий стол\Minesweeper.WPF\obj\Debug\Minesweeper.WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\faila\OneDrive\Рабочий стол\Minesweeper.WPF\obj\Debug\MainWindow.baml
+C:\Users\faila\OneDrive\Рабочий стол\Minesweeper.WPF\obj\Debug\MainWindow.g.cs
+C:\Users\faila\OneDrive\Рабочий стол\Minesweeper.WPF\obj\Debug\App.g.cs
+C:\Users\faila\OneDrive\Рабочий стол\Minesweeper.WPF\obj\Debug\Minesweeper.WPF_MarkupCompile.cache
+C:\Users\faila\OneDrive\Рабочий стол\Minesweeper.WPF\obj\Debug\Minesweeper.WPF.g.resources
+C:\Users\faila\OneDrive\Рабочий стол\Minesweeper.WPF\obj\Debug\Minesweeper.WPF.Properties.Resources.resources
+C:\Users\faila\OneDrive\Рабочий стол\Minesweeper.WPF\obj\Debug\Minesweeper.WPF.csproj.GenerateResource.cache
+C:\Users\faila\OneDrive\Рабочий стол\Minesweeper.WPF\obj\Debug\Minesweeper.WPF.csproj.CoreCompileInputs.cache
+C:\Users\faila\OneDrive\Рабочий стол\Minesweeper.WPF\obj\Debug\Minesweeper.WPF.exe
+C:\Users\faila\OneDrive\Рабочий стол\Minesweeper.WPF\obj\Debug\Minesweeper.WPF.pdb
